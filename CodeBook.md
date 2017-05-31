@@ -1,8 +1,8 @@
 The below are for describing the file tidyData.txt
 
 ## Main Variables
-* 1 Subject - the unique identity for the volunteered subject.
-* 2 activity - The type of activities performed by the subject.
+* 1 Subject - the unique identity for the volunteered subject. Type is INT
+* 2 activity - The type of activities performed by the subject. Tyoe is CHAR
 
 ## Measurments
  [1] "timeBodyAcc-mean()-X"               
