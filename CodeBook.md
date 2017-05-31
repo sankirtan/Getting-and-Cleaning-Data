@@ -1,8 +1,8 @@
 The below are for describing the file tidyData.txt
 
-## Main Labels
-*1 Subject - the unique identity for the volunteered subject.
-*2 activity - The type of activities performed by the subject.
+## Main Variables
+* 1 Subject - the unique identity for the volunteered subject.
+* 2 activity - The type of activities performed by the subject.
 
 ## Measurments
  [1] "timeBodyAcc-mean()-X"               
@@ -76,9 +76,9 @@ The below are for describing the file tidyData.txt
 
 ## Activity Labels
 total 6 levels
-WALKING - measurement was taken when the subject was walking
-WALKING_UPSTAIRS - measurement was taken when the subject was walking upstairs
-WALKING_DOWNSTAIRS - measurement was taken when the subject was walking downstairs
-SITTING - measurement was taken when the subject was sitting
-STANDING - measurement was taken when the subject was standing
-LAYING - measurement was taken when the subject was walking laying
+* 1.WALKING - measurement was taken when the subject was walking
+* 2.WALKING_UPSTAIRS - measurement was taken when the subject was walking upstairs
+* 3.WAKING_DOWNSTAIRS - measurement was taken when the subject was walking downstairs
+* 4.SITTING - measurement was taken when the subject was sitting
+* 5.STANDING - measurement was taken when the subject was standing
+* 6.LAYING - measurement was taken when the subject was walking laying
